@@ -1,10 +1,10 @@
 # Site settings
-title: Jinghao Zhou
-email: jensen.zhoujh@gmail.com
+title: Zhipeng DU
+email:
 baseurl: ""
-url: "http://shallowtoil.github.io"
-blogurl: "http://shallowtoil.github.io/blog"
-github_username:  shallowtoil
+url: "http://ZPDu.github.io"
+blogurl: "http://ZPDu.github.io/blog"
+github_username:  ZPDu
 
 # Build settings
 markdown: kramdown
