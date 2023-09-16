@@ -22,7 +22,7 @@ h1 {
 }
 
 h3 {	
-	color: #527bbd;
+	color: #8B008B;
 	border-bottom: 1px solid #aaaaaa;
 }
 
@@ -138,7 +138,7 @@ img.resized {
 #footer {
   position: fixed;
   bottom: 0;
-    width: 200px;
+    width: 240px;
 }
 
 @media (max-width: 1200px) {
