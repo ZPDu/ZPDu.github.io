@@ -1,0 +1,6 @@
+@article{du2023boosting,
+  title={Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation},
+  author={Du, Zhipeng and Shi, Miaojing and Deng, Jiankang},
+  journal={arXiv preprint arXiv:2312.01220},
+  year={2023}
+}

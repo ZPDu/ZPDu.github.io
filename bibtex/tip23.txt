@@ -1,0 +1,7 @@
+@article{du2023redesigning,
+  title={Redesigning multi-scale neural network for crowd counting},
+  author={Du, Zhipeng and Shi, Miaojing and Deng, Jiankang and Zafeiriou, Stefanos},
+  journal={IEEE Transactions on Image Processing},
+  year={2023},
+  publisher={IEEE}
+}

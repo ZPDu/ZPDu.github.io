@@ -1,0 +1,9 @@
+@inproceedings{du2023domain,
+  title={Domain-general crowd counting in unseen scenarios},
+  author={Du, Zhipeng and Deng, Jiankang and Shi, Miaojing},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={1},
+  pages={561--570},
+  year={2023}
+}
